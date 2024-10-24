@@ -527,80 +527,80 @@ export const PRODUCTS = [
 export const ARTICLES = [
   {
     id: "b1c2d3e4-f5g6-7h8i-9j0k-l1m2n3o4p5q6",
-    title: "여행 가이드",
-    content: "가장 인기 있는 여행지와 팁을 소개합니다.",
+    title: "아이폰 16프로 좋나요?",
+    content: "아이폰 16프로 좋나요?",
     createdAt: "2023-10-05T08:00:00Z",
     updatedAt: "2023-10-05T08:00:00Z",
     userId: "a3b4c5d6-e7f8-9a0b-1c2d-g3f4a5b6c7d8"
   },
   {
     id: "c2d3e4f5-g6h7-8i9j-0k1l-m2n3o4p5q6r7",
-    title: "인공지능과 미래",
-    content: "인공지능의 발전과 미래 전망에 대해 논의합니다.",
+    title: "아이폰 vs 갤럭시",
+    content: "아이폰이 좋나요? 갤럭시가 좋나요?",
     createdAt: "2023-09-15T10:00:00Z",
     updatedAt: "2023-09-15T10:00:00Z",
     userId: "a4b5c6d7-e8f9-0a1b-c2d3-e4f5g6h7i8j9"
   },
   {
     id: "d3e4f5g6-h7i8-9j0k-1l2m-n3o4p5q6r7s8",
-    title: "요리 레시피",
-    content: "간단하고 건강한 요리를 만들 수 있는 레시피를 소개합니다.",
+    title: "맥북 좋나요?",
+    content: "맥북 뭘 사야할까요?",
     createdAt: "2023-08-12T12:00:00Z",
     updatedAt: "2023-08-12T12:00:00Z",
     userId: "a5b6c7d8-e9f0-1a2b-c3d4-e5f6g7h8i9j0"
   },
   {
     id: "e4f5g6h7-i8j9-0k1l-2m3n-o4p5q6r7s8t9",
-    title: "패션 트렌드",
-    content: "올해 가장 주목받는 패션 트렌드와 스타일링 팁을 소개합니다.",
+    title: "청소기 추천 좀 해주세요",
+    content: "청소기 추천 좀 해주세요",
     createdAt: "2023-07-30T14:00:00Z",
     updatedAt: "2023-07-30T14:00:00Z",
     userId: "a6b7c8d9-f0g1-2a3b-c4d5-e6f7g8h9i0j1"
   },
   {
     id: "f5g6h7i8-j9k0-1l2m-3n4o-p5q6r7s8t9u0",
-    title: "영화 리뷰",
-    content: "최신 영화 리뷰와 평점, 추천작을 소개합니다.",
+    title: "모니터 추천 좀 해주세요",
+    content: "모니터 추천 좀 해주세요",
     createdAt: "2023-06-22T16:00:00Z",
     updatedAt: "2023-06-22T16:00:00Z",
     userId: "a7b8c9d0-g1h2-3a4b-c5d6-e7f8g9h0i1j2"
   },
   {
     id: "g6h7i8j9-k0l1-2m3n-4o5p-q6r7s8t9u0v1",
-    title: "음악 추천",
-    content: "최신 음악 트렌드와 추천곡 리스트를 소개합니다.",
+    title: "이어폰 추천 좀 해주세요",
+    content: "이어폰 추천 좀 해주세요",
     createdAt: "2023-05-18T18:00:00Z",
     updatedAt: "2023-05-18T18:00:00Z",
     userId: "a8b9c0d1-h2i3-4a5b-c6d7-e8f9g0h1i2j3"
   },
   {
     id: "h7i8j9k0-l1m2-3n4o-5p6q-r7s8t9u0v1w2",
-    title: "기술 혁신",
-    content: "기술 혁신이 사회에 미치는 영향에 대해 분석합니다.",
+    title: "냉장고 추천 좀 해주세요",
+    content: "냉장고 추천 좀 해주세요",
     createdAt: "2023-04-10T20:00:00Z",
     updatedAt: "2023-04-10T20:00:00Z",
     userId: "a9b0c1d2-i3j4-5a6b-c7d8-e9f0g1h2i3j4"
   },
   {
     id: "i8j9k0l1-m2n3-4o5p-6q7r-s8t9u0v1w2x3",
-    title: "스포츠 뉴스",
-    content: "국내외 스포츠 뉴스와 경기 결과를 신속하게 전달합니다.",
+    title: "스마트워치 추천 좀 해주세요",
+    content: "스마트워치 추천 좀 해주세요",
     createdAt: "2023-03-15T22:00:00Z",
     updatedAt: "2023-03-15T22:00:00Z",
     userId: "a1b2c3d4-j5k6-7a8b-c9d0-e1f2g3h4i5j6"
   },
   {
     id: "j9k0l1m2-n3o4-5p6q-7r8s-t9u0v1w2x3y4",
-    title: "경제 동향",
-    content: "최신 경제 동향과 시장 분석 정보를 제공합니다.",
+    title: "노트북 추천 좀 해주세요",
+    content: "노트북 추천 좀 해주세요",
     createdAt: "2023-02-25T08:00:00Z",
     updatedAt: "2023-02-25T08:00:00Z",
     userId: "a2b3c4d5-k6l7-8a9b-c0d1-e2f3g4h5i6j7"
   },
   {
     id: "k0l1m2n3-o4p5-6q7r-8s9t-u0v1w2x3y4z5",
-    title: "환경 보호",
-    content: "환경 보호의 중요성과 실천할 수 있는 방법들을 공유합니다.",
+    title: "컴퓨터 추천 좀 해주세요",
+    content: "컴퓨터 추천 좀 해주세요",
     createdAt: "2023-01-12T12:00:00Z",
     updatedAt: "2023-01-12T12:00:00Z",
     userId: "a3b4c5d6-l7m8-9a0b-c1d2-e3f4g5h6i7j8"
@@ -609,7 +609,7 @@ export const ARTICLES = [
 export const ARTICLE_COMMENTS = [
   {
     id: "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
-    content: "좋은 글입니다! 많은 도움이 되었어요.",
+    content: "아무거나 다 좋아요1",
     createdAt: "2023-10-05T09:00:00Z",
     updatedAt: "2023-10-05T09:00:00Z",
     userId: "a3b4c5d6-e7f8-9a0b-1c2d-g3f4a5b6c7d8",
@@ -617,7 +617,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "b2c3d4e5-f6g7-8h9i-0j1k-l2m3n4o5p6q7",
-    content: "흥미로운 주제네요. 더 알고 싶어요!",
+    content: "아무거나 다 좋아요2",
     createdAt: "2023-09-15T11:00:00Z",
     updatedAt: "2023-09-15T11:00:00Z",
     userId: "a4b5c6d7-e8f9-0a1b-c2d3-e4f5g6h7i8j9",
@@ -625,7 +625,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "c3d4e5f6-g7h8-9i0j-1k2l-m3n4o5p6q7r8",
-    content: "잘 읽었습니다. 유익한 정보 감사합니다.",
+    content: "아무거나 다 좋아요3",
     createdAt: "2023-08-12T13:00:00Z",
     updatedAt: "2023-08-12T13:00:00Z",
     userId: "a5b6c7d8-e9f0-1a2b-c3d4-e5f6g7h8i9j0",
@@ -633,7 +633,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "d4e5f6g7-h8i9-0j1k-2l3m-n4o5p6q7r8s9",
-    content: "요리 레시피 정말 간단해요! 감사합니다.",
+    content: "아무거나 다 좋아요4",
     createdAt: "2023-07-30T15:00:00Z",
     updatedAt: "2023-07-30T15:00:00Z",
     userId: "a6b7c8d9-f0g1-2a3b-c4d5-e6f7g8h9i0j1",
@@ -641,7 +641,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "e5f6g7h8-i9j0-1k2l-3m4n-o5p6q7r8s9t0",
-    content: "패션 트렌드에 대해 알게 되어 기쁩니다.",
+    content: "아무거나 다 좋아요5",
     createdAt: "2023-06-22T17:00:00Z",
     updatedAt: "2023-06-22T17:00:00Z",
     userId: "a7b8c9d0-g1h2-3a4b-c5d6-e7f8g9h0i1j2",
@@ -649,7 +649,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "f6g7h8i9-j0k1-2l3m-4n5o-p6q7r8s9t0u1",
-    content: "음악 추천 정말 좋아요. 감사합니다!",
+    content: "아무거나 다 좋아요6",
     createdAt: "2023-05-18T19:00:00Z",
     updatedAt: "2023-05-18T19:00:00Z",
     userId: "a8b9c0d1-h2i3-4a5b-c6d7-e8f9g0h1i2j3",
@@ -657,7 +657,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "g7h8i9j0-k1l2-3m4n-5o6p-q7r8s9t0u1v2",
-    content: "기술 혁신 주제에 대한 글 잘 읽었습니다.",
+    content: "아무거나 다 좋아요7",
     createdAt: "2023-04-10T21:00:00Z",
     updatedAt: "2023-04-10T21:00:00Z",
     userId: "a9b0c1d2-i3j4-5a6b-c7d8-e9f0g1h2i3j4",
@@ -665,7 +665,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "h8i9j0k1-l2m3-4n5o-6p7q-r8s9t0u1v2w3",
-    content: "스포츠 뉴스를 빠르게 전달해 주셔서 감사합니다.",
+    content: "아무거나 다 좋아요8",
     createdAt: "2023-03-15T23:00:00Z",
     updatedAt: "2023-03-15T23:00:00Z",
     userId: "a1b2c3d4-j5k6-7a8b-c9d0-e1f2g3h4i5j6",
@@ -673,7 +673,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "i9j0k1l2-m3n4-5o6p-7q8r-s9t0u1v2w3x4",
-    content: "경제 동향 분석 정말 유익했습니다.",
+    content: "아무거나 다 좋아요9",
     createdAt: "2023-02-25T09:00:00Z",
     updatedAt: "2023-02-25T09:00:00Z",
     userId: "a2b3c4d5-k6l7-8a9b-c0d1-e2f3g4h5i6j7",
@@ -681,7 +681,7 @@ export const ARTICLE_COMMENTS = [
   },
   {
     id: "j0k1l2m3-n4o5-6p7q-8r9s-t0u1v2w3x4y5",
-    content: "환경 보호에 대한 글에서 많은 걸 배웠습니다.",
+    content: "아무거나 다 좋아요10",
     createdAt: "2023-01-12T13:00:00Z",
     updatedAt: "2023-01-12T13:00:00Z",
     userId: "a3b4c5d6-l7m8-9a0b-c1d2-e3f4g5h6i7j8",
